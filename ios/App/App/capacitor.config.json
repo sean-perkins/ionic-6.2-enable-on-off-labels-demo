@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-6.2-on-off-labels-demo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
